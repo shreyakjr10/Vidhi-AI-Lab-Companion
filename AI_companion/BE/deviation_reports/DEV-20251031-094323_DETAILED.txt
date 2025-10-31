@@ -1,0 +1,75 @@
+**Pharmaceutical Deviation Report: DEV-20251031-094323**
+
+### 1. Executive Summary
+
+This deviation report documents a major unplanned deviation (DEV-20251031-094323) involving a temperature excursion in the raw material storage area RM-05. The incident occurred on October 31, 2025, at 09:43:23, where the environmental monitoring system recorded temperatures outside the required storage condition of 2-8°C for hygroscopic materials. The affected materials include Batch #MAT-567 of Active Pharmaceutical Ingredient (API) and Batch #EXC-890 of excipient. This report outlines the deviation classification, detailed event description, immediate actions taken, impact assessment, root cause analysis, corrective and preventive actions (CAPA), training implications, regulatory compliance, and closure requirements in accordance with Good Manufacturing Practice (GMP) compliance standards.
+
+### 2. Deviation Classification
+
+- **Deviation ID:** DEV-20251031-094323
+- **Deviation Type:** Unplanned
+- **Severity Level:** Major
+- **Deviation Category:** Equipment
+- **Stage of Occurrence:** Manufacturing
+- **Risk Assessment:**
+  - **Product Quality Impact:** High
+  - **Patient Safety Impact:** Low
+  - **Regulatory Impact:** High
+  - **Business Impact:** Medium
+
+### 3. Detailed Event Description
+
+On October 31, 2025, at 09:43:23, the environmental monitoring system in the raw material storage area RM-05 detected a temperature excursion. The system recorded temperatures of 12°C for 4 hours, which is outside the required storage condition of 2-8°C for hygroscopic materials. The materials affected by this deviation include Batch #MAT-567 of Active Pharmaceutical Ingredient (API) and Batch #EXC-890 of excipient. The HVAC system alarm was triggered but was not acknowledged by the night shift operator, indicating a potential lapse in operational oversight.
+
+### 4. Immediate Actions Taken
+
+1. **Investigation Initiated:** Immediate investigation into the root cause of the temperature excursion was initiated.
+2. **Documentation:** The incident was documented in accordance with GMP requirements.
+3. **Notification:** Relevant departments, including Quality Assurance, Production, and Maintenance, were notified.
+4. **Quarantine:** The affected materials (Batch #MAT-567 of API and Batch #EXC-890 of excipient) were quarantined to prevent any further processing until the investigation and impact assessment were completed.
+
+### 5. Impact Assessment
+
+The impact assessment focused on the potential effects of the temperature excursion on the quality of the affected materials. Given the high risk to product quality and regulatory compliance, a thorough evaluation of the materials' stability and potential degradation was conducted. This assessment considered the specifications of the materials, the duration and extent of the temperature excursion, and any available stability data. The outcome of this assessment will inform the batch disposition decision.
+
+### 6. Root Cause Analysis
+
+A root cause analysis using the 5 Whys methodology was conducted to identify the underlying cause of the temperature excursion and the failure to acknowledge the HVAC system alarm. The analysis involved:
+
+1. **Review of Relevant Documentation:** Examination of maintenance records, operational logs, and training documents.
+2. **Interviews with Involved Personnel:** Discussions with the night shift operator and other relevant staff to understand the circumstances surrounding the incident.
+3. **5 Whys Methodology:** Iterative questioning to drill down to the root cause of the problem.
+
+The root cause analysis revealed that the primary cause of the deviation was a failure in the HVAC system's temperature control mechanism, compounded by a lack of prompt response to the system alarm due to inadequate training of the night shift operator.
+
+### 7. Corrective and Preventive Actions (CAPA)
+
+Based on the root cause analysis, the following CAPA were identified:
+
+1. **Immediate Repair of HVAC System:** The temperature control mechanism of the HVAC system in the raw material storage area RM-05 was repaired to prevent future temperature excursions.
+2. **Enhanced Training Program:** A training program was developed and implemented for operators and supervisors to ensure they can respond appropriately to system alarms and understand the importance of maintaining the required storage conditions.
+3. **Regular Maintenance Scheduling:** A schedule for regular maintenance of the HVAC system was established to prevent similar failures.
+4. **Review and Revision of SOPs:** Standard Operating Procedures (SOPs) related to the operation and maintenance of the HVAC system, as well as response to alarms, were reviewed and revised as necessary.
+
+### 8. Training Implications
+
+The investigation highlighted the need for retraining of certain roles, including operators, supervisors, and quality personnel, within a week. The training will focus on:
+
+1. **Alarm Response:** Proper response to system alarms to ensure timely intervention in case of deviations.
+2. **GMP and Regulatory Requirements:** Refreshing knowledge on GMP standards and regulatory requirements related to storage conditions and material handling.
+3. **Importance of Maintenance and Calibration:** Understanding the critical role of regular maintenance and calibration of equipment in preventing deviations.
+
+### 9. Regulatory Compliance
+
+This deviation and the subsequent actions taken are in compliance with relevant pharmaceutical GMP regulations, including those related to equipment maintenance, material storage, and corrective and preventive actions. The regulatory impact of this deviation is considered high, necessitating thorough documentation and reporting to regulatory authorities as required.
+
+### 10. Closure Requirements
+
+The closure of this deviation requires:
+
+1. **Completion of CAPA:** Verification that all corrective and preventive actions have been implemented and are effective.
+2. **Training Completion:** Confirmation that all required training has been completed by the specified personnel.
+3. **Regulatory Notification:** Notification to relevant regulatory authorities, if required, with a detailed report of the deviation, investigation, and actions taken.
+4. **Batch Disposition:** A final decision on the disposition of the affected batches (Batch #MAT-567 of API and Batch #EXC-890 of excipient) based on the impact assessment and stability data.
+
+Upon completion of these requirements and verification of the effectiveness of the CAPA, this deviation will be considered closed.

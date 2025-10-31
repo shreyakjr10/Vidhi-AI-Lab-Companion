@@ -1,0 +1,61 @@
+**DEVIATION REPORT**
+**DEVIATION ID:** DEV-20251031-010427
+**INCIDENT DESCRIPTION:** Failure Mode Analysis (FMEA) Application to Identify High-Risk Deviation Points in the Compression Process
+**DETECTION DATE:** 2025-10-31 01:04:27
+
+## 1. **EXECUTIVE SUMMARY**
+The deviation event involves the potential for high-risk deviation points in the compression process, as identified through the application of Failure Mode Analysis (FMEA). The immediate impact on product quality is medium, with a low impact on patient safety. The initial risk classification is Minor.
+
+## 2. **DEVIATION CLASSIFICATION**
+- **Type:** Unplanned
+- **Category:** Equipment
+- **Stage of occurrence:** Manufacturing
+- **Department responsible:** Production Department
+
+## 3. **DETAILED EVENT DESCRIPTION**
+On 2025-10-31 at 01:04:27, during the compression process, it was noted that the application of FMEA could potentially identify high-risk deviation points. The equipment involved includes the compression machinery, and the materials are the active pharmaceutical ingredients and excipients. The personnel involved are the operators and supervisors of the production department. Batch numbers affected are pending investigation.
+
+## 4. **IMMEDIATE ACTIONS TAKEN**
+- **Containment measures implemented:** Investigation of the root cause, documentation of the incident, and notification of relevant departments.
+- **Batch quarantine status:** Pending investigation.
+- **Notification to relevant departments:** Quality Assurance, Production, and Regulatory Affairs departments have been notified.
+- **Temporary controls established:** Enhanced monitoring of the compression process.
+
+## 5. **IMPACT ASSESSMENT**
+- **Product quality impact:** Medium
+- **Patient safety implications:** Low
+- **Regulatory compliance status:** Medium risk of non-compliance
+- **Batch disposition requirements:** Pending investigation
+- **Stability implications:** Under evaluation
+
+## 6. **ROOT CAUSE ANALYSIS**
+Using the 5 Whys methodology:
+1. Why was FMEA not applied earlier? - Lack of proactive risk assessment.
+2. Why was there a lack of proactive risk assessment? - Inadequate training on FMEA.
+3. Why was the training inadequate? - Insufficient resources allocated to training.
+4. Why were resources insufficient? - Prioritization of other tasks over training.
+5. Why was training not prioritized? - Lack of awareness of the importance of FMEA in identifying high-risk deviation points.
+
+The underlying cause is identified as Human Error (inadequate training and prioritization) and Procedural (lack of proactive risk assessment).
+
+## 7. **CORRECTIVE AND PREVENTIVE ACTIONS (CAPA)**
+- **Corrective Actions:** Provide immediate training on FMEA to operators and supervisors, conduct a thorough review of the compression process to identify and mitigate high-risk deviation points.
+- **Preventive Actions:** Develop a schedule for regular FMEA application to all manufacturing processes, allocate sufficient resources for training and process review.
+- **Timeline for implementation:** Training to be completed within 1 week, process review within 2 weeks.
+- **Responsible departments/personnel:** Production Department, Quality Assurance Department, Training Department.
+
+## 8. **TRAINING IMPLICATIONS**
+- **Retraining requirements:** Yes, for operators and supervisors on FMEA and its application.
+- **Affected roles/departments:** Production, Quality Assurance.
+- **Training urgency and timeline:** High urgency, to be completed within 1 week.
+
+## 9. **REGULATORY COMPLIANCE**
+This deviation report is in compliance with FDA 21 CFR 211.100 (Written procedures; deviations) and 211.192 (Production record review), EU GMP Chapter 1 (Pharmaceutical Quality System) and Chapter 8 (Complaints and Product Recall), and WHO Good Manufacturing Practices. Documentation will be maintained as per Good Documentation Practices (GDP) for audit readiness.
+
+## 10. **CLOSURE REQUIREMENTS**
+- **Implementation verification plan:** Review of training records, observation of FMEA application in manufacturing processes.
+- **Effectiveness check methodology:** Monitoring of the compression process for any recurrence of high-risk deviation points.
+- **Required documentation for closure:** Training records, FMEA reports, process review documents.
+- **Timeline for deviation closure:** Target closure within 30 working days from the detection date.
+
+By following this structured deviation report and implementing the recommended corrective and preventive actions, we aim to ensure product quality, patient safety, and regulatory compliance, satisfying regulatory audit requirements.

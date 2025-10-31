@@ -1,0 +1,77 @@
+**DEVIATION REPORT: DEV-20251031-011634**
+
+**1. EXECUTIVE SUMMARY**
+
+On October 31, 2025, at 01:16:34, a temperature excursion was detected in the raw material storage area RM-05, where the environmental monitoring system recorded temperatures of 12°C for 4 hours, exceeding the required storage condition of 2-8°C for hygroscopic materials. The affected materials include Batch #MAT-567 of Active Pharmaceutical Ingredient and Batch #EXC-890 of excipient. The immediate impact on product quality is potential, and patient safety implications are considered low. The initial risk classification is Minor.
+
+**2. DEVIATION CLASSIFICATION**
+
+* Type: Unplanned
+* Category: Minor
+* Stage of occurrence: Storage
+* Department responsible: Quality Assurance and Warehouse Operations
+
+**3. DETAILED EVENT DESCRIPTION**
+
+On October 31, 2025, at 01:16:34, the environmental monitoring system in the raw material storage area RM-05 detected a temperature excursion, with temperatures reaching 12°C for 4 hours. The affected materials include:
+* Batch #MAT-567 of Active Pharmaceutical Ingredient (API)
+* Batch #EXC-890 of excipient
+The HVAC system alarm was triggered but not acknowledged by the night shift operator. The equipment involved includes the environmental monitoring system and the HVAC system. Personnel involved include the night shift operator and the quality assurance team.
+
+**4. IMMEDIATE ACTIONS TAKEN**
+
+* Containment measures: The affected batches were immediately quarantined, and access to the storage area was restricted.
+* Batch quarantine status: Batch #MAT-567 and Batch #EXC-890 are currently under quarantine.
+* Notification to relevant departments: The quality assurance, warehouse operations, and production departments were notified.
+* Temporary controls established: Additional temperature monitoring was implemented, and the HVAC system was adjusted to maintain the required temperature range.
+
+**5. IMPACT ASSESSMENT**
+
+* Product quality impact: Potential
+* Patient safety implications: Low
+* Regulatory compliance status: The deviation is considered a minor deviation, and regulatory compliance is maintained.
+* Batch disposition requirements: The affected batches will undergo additional testing to determine their suitability for use.
+* Stability implications: The stability of the affected materials may be impacted, and additional testing will be required to determine the extent of the impact.
+
+**6. ROOT CAUSE ANALYSIS**
+
+Using the 5 Whys methodology:
+1. Why was the temperature excursion not detected earlier? The night shift operator did not acknowledge the HVAC system alarm.
+2. Why did the night shift operator not acknowledge the alarm? The operator was not adequately trained on the alarm system.
+3. Why was the operator not adequately trained? The training program for night shift operators was not comprehensive.
+4. Why was the training program not comprehensive? The training program was not regularly reviewed and updated.
+5. Why was the training program not regularly reviewed and updated? The quality assurance department did not prioritize training program review and update.
+
+The underlying cause is Human Error, specifically inadequate training of the night shift operator. Contributing factors include inadequate training programs and lack of prioritization of training program review and update.
+
+**7. CORRECTIVE AND PREVENTIVE ACTIONS (CAPA)**
+
+* **Corrective Actions:**
+	+ Provide additional training to the night shift operator on the alarm system and temperature monitoring.
+	+ Review and update the training program for night shift operators.
+	+ Implement a system to ensure that alarms are acknowledged and responded to in a timely manner.
+* **Preventive Actions:**
+	+ Regularly review and update training programs for all personnel.
+	+ Implement a system to monitor and track training program effectiveness.
+	+ Conduct regular audits to ensure compliance with regulatory requirements.
+* Timeline for implementation: The corrective actions will be implemented within 7 working days, and the preventive actions will be implemented within 30 working days.
+* Responsible departments/personnel: Quality Assurance, Warehouse Operations, and Training Department.
+
+**8. TRAINING IMPLICATIONS**
+
+* Retraining requirements: The night shift operator and other relevant personnel will require retraining on the alarm system and temperature monitoring.
+* Affected roles/departments: Night shift operators, quality assurance, and warehouse operations.
+* Training urgency and timeline: The retraining will be conducted within 7 working days.
+
+**9. REGULATORY COMPLIANCE**
+
+The deviation is considered a minor deviation, and regulatory compliance is maintained. The company is compliant with FDA 21 CFR 211.100 and 211.192, EU GMP Chapter 1 and 8 requirements, and GDP documentation requirements. The company is audit-ready, and all necessary documentation is available.
+
+**10. CLOSURE REQUIREMENTS**
+
+* Implementation verification plan: The implementation of the corrective and preventive actions will be verified through regular audits and monitoring.
+* Effectiveness check methodology: The effectiveness of the corrective and preventive actions will be evaluated through regular review of temperature monitoring data and training program effectiveness.
+* Required documentation for closure: All relevant documentation, including training records, audit reports, and temperature monitoring data, will be maintained and available for review.
+* Timeline for deviation closure: The deviation will be closed within 30 working days of the detection date.
+
+By following this comprehensive report, the company can ensure that the deviation is properly investigated, and corrective and preventive actions are implemented to prevent recurrence and maintain regulatory compliance.

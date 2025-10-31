@@ -1,0 +1,69 @@
+**Pharmaceutical Deviation Report: DEV-20251031-115131**
+
+**1. Executive Summary:**
+
+A major unplanned deviation occurred in the raw material storage area RM-05, where a temperature excursion was detected, resulting in temperatures of 12°C for 4 hours, exceeding the required storage condition of 2-8°C for hygroscopic materials. The affected materials include Batch #MAT-567 of Active Pharmaceutical Ingredient and Batch #EXC-890 of excipient. This report outlines the investigation, impact assessment, and corrective actions taken to ensure compliance with pharmaceutical GMP regulations.
+
+**2. Deviation Classification:**
+
+* Deviation ID: DEV-20251031-115131
+* Deviation Type: Unplanned
+* Severity Level: Major
+* Deviation Category: Equipment
+* Stage of Occurrence: Manufacturing
+
+**3. Detailed Event Description:**
+
+On 2025-10-31 at 11:51:31, the environmental monitoring system detected a temperature excursion in the raw material storage area RM-05. The temperature rose to 12°C for 4 hours, exceeding the required storage condition of 2-8°C for hygroscopic materials. The affected materials include Batch #MAT-567 of Active Pharmaceutical Ingredient and Batch #EXC-890 of excipient. The HVAC system alarm was triggered but not acknowledged by the night shift operator, resulting in a delayed response to the temperature excursion.
+
+**4. Immediate Actions Taken:**
+
+1. **Investigation**: An immediate investigation was initiated to determine the root cause of the temperature excursion.
+2. **Documentation**: The incident was documented, and relevant departments were notified.
+3. **Quarantine**: The affected materials (Batch #MAT-567 and Batch #EXC-890) were quarantined to prevent further use or distribution.
+4. **Notification**: Relevant personnel, including quality assurance, production, and regulatory affairs, were notified of the deviation.
+
+**5. Impact Assessment:**
+
+The impact assessment revealed:
+* **Product Quality Impact**: High, as the temperature excursion may have affected the stability and potency of the active pharmaceutical ingredient and excipient.
+* **Patient Safety Impact**: Low, as the affected materials have not been released to the market.
+* **Regulatory Impact**: High, as the deviation may result in non-compliance with regulatory requirements.
+* **Business Impact**: Medium, as the deviation may result in delays or losses due to the potential need for re-manufacturing or disposal of affected materials.
+
+**6. Root Cause Analysis:**
+
+Using the 5 Whys methodology, the root cause analysis revealed that:
+1. The night shift operator failed to acknowledge the HVAC system alarm, resulting in a delayed response to the temperature excursion.
+2. The operator was not adequately trained on the importance of responding to alarms and the procedures for handling temperature excursions.
+3. The training program for operators was not effective in ensuring that personnel understood the criticality of temperature control in the storage area.
+4. The quality assurance department did not conduct regular audits to ensure that operators were following procedures and responding to alarms in a timely manner.
+5. The management did not provide adequate resources and support for the quality assurance department to conduct regular audits and training programs.
+
+**7. Corrective and Preventive Actions (CAPA):**
+
+1. **Retraining**: The night shift operator and all relevant personnel will undergo retraining on the importance of responding to alarms and the procedures for handling temperature excursions.
+2. **Procedure Revision**: The standard operating procedure (SOP) for responding to temperature excursions will be revised to include clear instructions and timelines for responding to alarms.
+3. **Audit and Monitoring**: Regular audits will be conducted to ensure that operators are following procedures and responding to alarms in a timely manner.
+4. **Temperature Monitoring System Upgrade**: The temperature monitoring system will be upgraded to include automated alerts and notifications to ensure that deviations are detected and responded to promptly.
+5. **Quality Assurance Support**: Additional resources and support will be provided to the quality assurance department to conduct regular audits and training programs.
+
+**8. Training Implications:**
+
+1. **Needs Retraining**: Yes, the night shift operator and all relevant personnel require retraining on the importance of responding to alarms and the procedures for handling temperature excursions.
+2. **Affected Roles**: Operators, supervisors, and quality personnel will undergo retraining.
+3. **Training Urgency**: The retraining program will be conducted within one week.
+
+**9. Regulatory Compliance:**
+
+The deviation has been reported to the relevant regulatory authorities, and all necessary actions are being taken to ensure compliance with pharmaceutical GMP regulations. The corrective and preventive actions outlined in this report are designed to prevent similar deviations from occurring in the future.
+
+**10. Closure Requirements:**
+
+The deviation will be considered closed when:
+1. The root cause analysis and corrective actions have been completed and verified.
+2. The affected materials have been dispositioned (e.g., released, re-manufactured, or disposed of).
+3. The retraining program has been completed, and the effectiveness of the training has been evaluated.
+4. The regulatory authorities have been notified, and any necessary regulatory actions have been taken.
+
+By following these steps and implementing the corrective and preventive actions outlined in this report, we can ensure that the pharmaceutical GMP compliance and regulatory requirements are met, and the quality of our products is maintained.

@@ -1,0 +1,24 @@
+
+            MAJOR DEVIATION REPORT: COMPRESSION MACHINE FAILURE
+            
+            Deviation ID: DEV-2024-002
+            Severity: MAJOR
+            Category: Equipment/Manufacturing
+            
+            Incident: Compression machine CM-02 showed 8% deviation from calibrated pressure settings
+            during routine performance qualification. This affected tablet hardness uniformity.
+            
+            Affected Batch: Batch #TAB-456 showed 15% out-of-specification tablets
+            Batch Status: ON HOLD pending investigation
+            
+            Root Cause: Inadequate preventive maintenance schedule and calibration drift.
+            Impact: Product quality impacted, potential batch rejection.
+            
+            CAPA:
+            - Revised preventive maintenance schedule
+            - Enhanced calibration frequency from monthly to weekly
+            - Operator training on equipment monitoring
+            - Implementation of real-time pressure monitoring
+            
+            Training Required: Equipment operation and monitoring for all operators.
+            

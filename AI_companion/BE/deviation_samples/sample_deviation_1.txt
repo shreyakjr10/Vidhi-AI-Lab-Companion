@@ -1,0 +1,26 @@
+
+            CRITICAL DEVIATION REPORT: TEMPERATURE EXCURSION IN API STORAGE
+            
+            Deviation ID: DEV-2024-001
+            Severity: CRITICAL
+            Category: Environmental/Storage
+            
+            Incident: Temperature excursion detected in raw material storage area RM-05. 
+            The environmental monitoring system recorded temperatures of 12°C for 4 hours 
+            against the required storage condition of 2-8°C for hygroscopic materials.
+            
+            Affected Materials: 
+            - Batch #MAT-567 of Active Pharmaceutical Ingredient (Stability compromised)
+            - Batch #EXC-890 of critical excipient
+            
+            Root Cause: HVAC system malfunction combined with operator failure to acknowledge alarm.
+            Immediate Impact: Potential product quality impact requiring stability testing.
+            
+            CAPA: 
+            - Immediate quarantine of affected materials
+            - HVAC system maintenance and calibration
+            - Operator retraining on alarm response procedures
+            - Enhanced environmental monitoring frequency
+            
+            Regulatory Impact: Potential FDA 483 observation for inadequate controls.
+            
